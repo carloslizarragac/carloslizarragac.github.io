@@ -1,0 +1,43 @@
+site_name: Carlos Lizárraga-Celaya Personal Page
+theme:
+  name: material
+
+  # setting features for the navigation tab
+  features:
+    - navigation.instant
+      #- navigation.expand
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - toc.follow
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  palette: 
+    - scheme: default
+      primary: teal
+      accent: blue
+      toggle:
+        icon: material/brightness-3
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: orange 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+
+extra:
+  social:
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-0893-4268
+    - icon: fontawesome/brands/github
+      link: https://github.com/clizarraga-UAD7
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/clizarraga
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/carloslizarragac/
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/u/clizarraga
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.online/@clizarraga
+       
