@@ -1,7 +1,38 @@
 site_name: Carlos Lizárraga-Celaya Personal Page
-theme:
-  name: material
+site_description: 'Carlos Lizárraga-Celaya Profile'
+site_author: 'Carlos Lizárraga-Celaya'
+#site_url: https://carloslizarragac.github.io/
 
+# Repository
+repo_name: CLC profile
+repo_url: https://github.com/carloslizarragac/carloslizarragac.github.io
+edit_uri: edit/main/docs/
+# Copyright
+copyright: 'Copyright &copy; 2023 Carlos Lizárraga-Celaya'
+
+
+# Page tree
+nav:
+  - Home: index.md
+  - Digital Profile: 
+    - Github Repos: GithubRepos.md
+    - Learning Materials: learningmaterials.md
+    - Digital Curations: digitalcurations.md
+    - Academic Profile: academicprofile.md
+    - Social Networks: socialnetworks.md 
+    
+ # Configuration
+imgwidth: 70px;
+
+theme:
+  highlightjs: true
+  name: material
+  font:
+    text: 'Open Sans'
+    code: 'Roboto Mono'
+  #logo: 'assets/uarizona.png'
+  #favicon: 'assets/favicon.ico' 
+ 
   # setting features for the navigation tab
   features:
     - navigation.instant
@@ -28,6 +59,8 @@ theme:
 
 extra:
   social:
+    - icon: fontawesome/solid/school
+      link: https://www.datascience.arizona.edu/person/carlos-lizarraga
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0002-0893-4268
     - icon: fontawesome/brands/github
@@ -36,8 +69,8 @@ extra:
       link: https://www.linkedin.com/in/carloslizarragac/
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/carlos.lizarragac/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/clizarraga
+    #- icon: fontawesome/brands/twitter
+    #  link: https://twitter.com/clizarraga
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.online/@clizarraga
     - icon: fontawesome/brands/docker
@@ -62,9 +95,9 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  #- pymdownx.emoji:
+  #    emoji_index: !!python/name:materialx.emoji.twemoji
+  #    emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -80,7 +113,7 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+   #       format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
@@ -93,6 +126,5 @@ plugins:
 #    - mkdocs-jupyter:
 #          include_source: True
 #         ignore_h1_titles: True     
-# Copyright
-copyright: 'Copyright &copy; 2023 Carlos Lizárraga-Celaya'
+
 
