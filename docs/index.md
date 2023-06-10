@@ -31,9 +31,6 @@ Additionally, he actively participated in the Climate Change Research Program at
 
 
 ## My Last 3 Dev articles
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
