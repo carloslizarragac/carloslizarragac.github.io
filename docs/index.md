@@ -30,7 +30,6 @@ Additionally, he actively participated in the Climate Change Research Program at
 * _System Analyst_. [Mathematics Department, The University of Arizona](https://www.math.arizona.edu/) (1992)
 
 
-## My Last 3 Dev articles
 
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
