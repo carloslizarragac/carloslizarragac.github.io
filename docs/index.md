@@ -31,7 +31,7 @@ Additionally, he actively participated in the Climate Change Research Program at
 
 
 
-## My GitHub Stats ![stats](https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif){width = 35px}
+## My GitHub Stats ![stats](https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif){width=35}
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=clizarraga-uad7&amp;show_icons=true)
 
