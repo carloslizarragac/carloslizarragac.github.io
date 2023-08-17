@@ -29,7 +29,10 @@ Additionally, he actively participated in the Climate Change Research Program at
 * _Business Data Analyst_. [Tiempo Development Inc. / 3Pillar Global](https://www.3pillarglobal.com/) (2013 – 2017)
 * _System Analyst_. [Mathematics Department, The University of Arizona](https://www.math.arizona.edu/) (1992)
 
+## UArizona Data Science
 
+* [Data Science Institute Training](https://workshops-uad7.github.io)
+* [Data Science Learning Resources](https://github.com/ua-data7/LearningResources/wiki)
 
 ## My GitHub Stats ![stats](https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif){width="35"}
 
